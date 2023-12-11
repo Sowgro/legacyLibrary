@@ -1,0 +1,11 @@
+{
+    "name": "legacyLibrary",
+    "description": "Restores the old library",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "branch": "main",
+    "authors": [
+        { "name": "sowgro", "url": "https://sowgro.net/" }
+    ],
+    "tags": ["library"]
+}
